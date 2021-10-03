@@ -10,7 +10,7 @@ I'm a data archeologist, humming the Indiana Jones theme song.  I love getting t
 - 👯 I’m looking to collaborate on creative gaming projects
 - 💬 Ask me about user interface research and design
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I love making the perfect office set-up
+- ⚡ Fun fact: I'm obsessed with the perfect office set-up
 
 ### I usually use tools like...
 
