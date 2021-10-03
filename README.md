@@ -15,14 +15,10 @@ I'm a data archeologist, humming the Indiana Jones theme song.  I love getting t
 
 ### Connect with me...
 
-* Web: <kattkennedy.me>
-* LinkedIn: <linkedin.com/in/kattkennedy>
-* Email: katt@fatehold.com
+* Web: <a href="https://www.kattkennedy.me">kattkennedy.me</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/kattkennedy">linkedin.com/in/kattkennedy</a>
+* Email: <a href=mailto:"katt@fatehold.com">katt@fatehold.com</a>
 
 <br> <br>
 
 [![Octokatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=octokatt)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: http://kattkennedy.me
-[medium]: https://medium.com/@octokatt/
-[linkedin]: https://www.linkedin.com/in/kattkennedy/
