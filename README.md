@@ -23,9 +23,9 @@ I'm a data archeologist, humming the Indiana Jones theme song.  I love getting t
 [<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
-<br> Also baling wire, duct tape, weird SaaS platforms, and Airflow.  😸
+<br><br> Also baling wire, duct tape, weird SaaS platforms, and Airflow.  😸
 
-<br><br>
+<br>
 
 ### Connect with me...
 
