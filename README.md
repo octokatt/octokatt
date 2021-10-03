@@ -1,9 +1,6 @@
 ## Hello, Internet Strangers 👋
 
-<!--
-**octokatt/octokatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Data archeologist, humming the Indiana Jones theme song.  Currently leadiing the Datapals at Square.
+I'm a data archeologist, humming the Indiana Jones theme song while trying to figure out what happened.  Currently leading the Datapals at Cash App, reading bad fantasy books from the 90's, and fiddling with creative writing projects.
 
 
 ### A little about me...
@@ -14,6 +11,7 @@ Data archeologist, humming the Indiana Jones theme song.  Currently leadiing the
 - 💬 Ask me about user interface research and design
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I love making the perfect office set-up
+
 
 ### Connect with me...
 
