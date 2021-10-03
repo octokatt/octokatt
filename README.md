@@ -15,8 +15,8 @@ I'm a data archeologist, humming the Indiana Jones theme song.  I love getting t
 
 ### Connect with me...
 
-* Web: kattkennedy.me
-* LinkedIn: linkedin.com/in/kattkennedy
+* Web: <kattkennedy.me>
+* LinkedIn: <linkedin.com/in/kattkennedy>
 * Email: katt@fatehold.com
 
 <br> <br>
