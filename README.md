@@ -3,16 +3,16 @@
 I'm a data archeologist, humming the Indiana Jones theme song.  I love getting to bridge the gaps between different data sets, departments, and designs to grow towards a better system.  
 
 
-### 🤔 A little about me...
+### A little about me...
 
-- 🔭 I’m currently working on product/growth data science
-- 🌱 I’m currently learning more about scalable machine learning
-- 👯 I’m looking to collaborate on creative gaming projects
-- 💬 Ask me about user interface research and design
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I'm obsessed with the perfect office set-up
+- I’m currently working on product/growth data science
+- I’m currently learning more about scalable machine learning
+- I’m looking to collaborate on creative gaming projects
+- Ask me about user interface research and design
+- Pronouns: they/them
+- Fun fact: I'm obsessed with the perfect office set-up
 
-### 🧰 I usually use tools like...
+### I usually use tools like...
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][website]
@@ -27,7 +27,7 @@ I'm a data archeologist, humming the Indiana Jones theme song.  I love getting t
 
 <br>
 
-### 🔗 Connect with me...
+### Connect with me...
 
 [<img align="left" alt="octokatt.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kattkennedy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
