@@ -36,7 +36,7 @@ I'm a data archeologist, humming the Indiana Jones theme song.  I love getting t
 
 ### Right now, my usage here is...
 [![Octokatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=octokatt)](https://github.com/anuraghazra/github-readme-stats)
-* Important note: A lot of my work and contributions are at work, which often doesn't show up here.  
+###### Caveat: A lot of my work and contributions are at work, which often doesn't show up here.  
 
 
 [website]: http://kattkennedy.me/
