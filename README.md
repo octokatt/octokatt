@@ -1,4 +1,4 @@
-![Pretty Header Image](./header.PNG)
+![Pretty Header Image](./title.PNG)
 
 I'm a product-oriented data scientist with an emphasis on research design and qualitiative methods.  I love getting to bridge the gaps between different data sets, departments, and designs to grow towards a better system.  
 
