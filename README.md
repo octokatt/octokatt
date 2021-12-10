@@ -5,11 +5,22 @@ I'm a seasoned data scientist, specializing in early-stage product analytics, da
 
 ### Right now...
 
-- I’m currently learning more about scalable machine learning
+- I’m learning more about scalable machine learning in Python
 - I’m looking to find interesting ways to contribute to open source
 - Ask me about organizational behavior research and design
 - Pronouns: they/them
-- Fun fact: I first started playing Dungeons & Dragons when I was three
+
+<br><br>
+
+### Connect with me...
+
+[<img align="left" alt="octokatt.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kattkennedy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="octokatt | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] 
+[<img align="left" alt="octokatt_bot | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br> <br>
+
 
 ### I usually use tools like...
 
@@ -26,14 +37,6 @@ I'm a seasoned data scientist, specializing in early-stage product analytics, da
 
 <br>
 
-### Connect with me...
-
-[<img align="left" alt="octokatt.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kattkennedy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="octokatt | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium] 
-[<img align="left" alt="octokatt_bot | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br> <br>
 
 ### Right now, my usage here is...
 [![Octokatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=octokatt)](https://github.com/anuraghazra/github-readme-stats)
