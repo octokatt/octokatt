@@ -10,7 +10,7 @@ I'm a seasoned data scientist, specializing in early-stage product analytics, da
 - Ask me about organizational behavior research and design
 - Pronouns: they/them
 
-<br><br>
+<br>
 
 ### Connect with me...
 
