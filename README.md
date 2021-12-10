@@ -3,9 +3,8 @@
 I'm a seasoned data scientist, specializing in early-stage product analytics, dataset rehabilitation, and root cause analysis.  I've studied quantitative psychology, business, and computer science, and worked over a decade in a variety of data roles. 
 
 
-### A little about me...
+### Right now...
 
-- I’m currently working on product/growth-oriented data science
 - I’m currently learning more about scalable machine learning
 - I’m looking to find interesting ways to contribute to open source
 - Ask me about organizational behavior research and design
