@@ -1,3 +1,4 @@
-![Pretty Header Image](./title.png)         
+# Katt Kennedy
+### Data Archeologist, humming the Indiana Jones theme song
 
-I'm a seasoned data scientist, specializing in early-stage product analytics, dataset rehabilitation, and root cause analysis.  I've studied quantitative psychology, business, and computer science, and worked over a decade in a variety of data roles. 
+I am a UX Researcher/Data Scientist, specializing in early-stage product analytics, research planning, and root cause analysis. I have a qualitative research toolset from my background in I/O Psychology and a wealth of practical experience with UX analysis and data engineering. If you need to cross the gap between quantitative and qualitative research, I'm available for hire.
